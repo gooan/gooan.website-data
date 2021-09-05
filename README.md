@@ -1,3 +1,3 @@
-# gooan.today
+# GOOAN _.today_
 
 This repository contains the published data on _gooan.today_ in-lines with our motto of promoting openness.
